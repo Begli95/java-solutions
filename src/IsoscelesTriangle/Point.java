@@ -21,7 +21,7 @@ public class Point {
 
     @Override
     public String toString() {
-        return String.format("(%.2f, %.2f)", x, y);
+        return "x = " + x + ", y = " + y;
     }
 
     @Override

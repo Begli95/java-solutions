@@ -1,361 +1,257 @@
 1. **Принцип работы RAM-машины.**  
-   • [Random-access machine (Wikipedia, на английском)](https://en.wikipedia.org/wiki/Random-access_machine)  
-   _Обзор модели RAM, используемой в теории алгоритмов и вычислительной сложности._
+   [GeeksforGeeks – RAM Model](https://www.geeksforgeeks.org/random-access-machine-ram-model/)
 
 2. **Основы двоичной системы счисления и систем счисления в целом.**  
-   • [Система счисления (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Система_счисления)  
-   _Описание различных систем счисления с упором на двоичную систему._
+   [TutorialsPoint – Number Systems](https://www.tutorialspoint.com/number_systems/index.htm)
 
 3. **Структура компьютера по фон Нейману. Принципы архитектуры фон Неймана.**  
-   • [Архитектура фон Неймана (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Архитектура_фон_Неймана)  
-   _Описание базовой архитектуры, лежащей в основе большинства современных компьютеров._
+   [Studytonight – Von Neumann Architecture](https://www.studytonight.com/computer-architecture/von-neumann-architecture)
 
 4. **Различия в языках высокого и низкого уровня.**  
-   • [Низкоуровневое программирование (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Низкоуровневое_программирование)  
-   _Статья о характеристиках и отличиях языков высокого и низкого уровня._
+   [GeeksforGeeks – High-level vs Low-level Languages](https://www.geeksforgeeks.org/high-level-vs-low-level-programming-languages/)
 
 5. **Что должен включать в себя язык программирования?**  
-   • [Язык программирования (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Язык_программирования)  
-   _Общие принципы, составляющие язык программирования._
+   [GeeksforGeeks – Characteristics of Programming Languages](https://www.geeksforgeeks.org/characteristics-of-programming-languages/)
 
 6. **Компилируемые и интерпретируемые языки, смешанные случаи.**  
-   • [Компилятор (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Компилятор)  
-   _Материал о компиляторах, интерпретаторах и гибридных подходах в обработке кода._
+   [GeeksforGeeks – Difference Between Compiled and Interpreted Languages](https://www.geeksforgeeks.org/difference-between-compiled-and-interpreted-languages/)
 
-7. **Что такое Java Virtual Machine и в чем цель ее создания?**  
-   • [Java Virtual Machine (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Java_Virtual_Machine)  
-   _Описание виртуальной машины Java и её роли в переносимости и безопасности кода._
+7. **Что такое Java Virtual Machine и в чем цель её создания?**  
+   [GeeksforGeeks – JVM Architecture](https://www.geeksforgeeks.org/jvm-architecture/)
 
 8. **Переменная. Именование переменной. Понятие типа переменной. Объявление и инициализация переменной. Статическая и динамическая типизация. Утиная типизация.**  
-   • [Переменная (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Переменная_(программирование))  
-   • [Типизация (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Типизация)  
-   • [Утиное типизирование (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Утиное_типизирование)  
-   _Материалы по переменным и системам типизации в языках программирования._
+   [Studytonight – Variables in Java](https://www.studytonight.com/java/variables.php)
 
 9. **Примитивные типы данных – перечень и размер.**  
-   • [Примитивные типы данных (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Тип_данных)  
-   _Обзор основных примитивных типов, их размеры и особенности представления._
+   [TutorialsPoint – Java Basic Data Types](https://www.tutorialspoint.com/java/java_basic_datatypes.htm)
 
 10. **Оператор присваивания. Понятие Statement и Expression.**  
-    • [Оператор (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Оператор_(программирование))  
-    _Разбор операторов, выражений и операторов присваивания в языках программирования._
+    [GeeksforGeeks – Statement vs Expression in Java](https://www.geeksforgeeks.org/statement-vs-expression-in-java/)
 
 11. **Целые типы данных. Подходы к хранению положительных и отрицательных целых чисел.**  
-    • [Двоичное представление чисел (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Двоичное_представление_чисел)  
-    • [Дополнение до двух (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Дополнение_до_двух)  
-    _Как представляются целые числа в памяти компьютера._
+    [Studytonight – Data Representation](https://www.studytonight.com/computer-fundamentals/data-representation.php)
 
 12. **Приведение типов. Хранение отрицательных целых чисел.**  
-    • [Приведение типов (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Явное_приведение)  
-    • [Дополнение до двух (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Дополнение_до_двух)  
-    _Вопросы преобразования типов и особенности представления отрицательных чисел._
+    [GeeksforGeeks – Two’s Complement](https://www.geeksforgeeks.org/twos-complement/)
 
 13. **Булев тип. Логические операции. Ленивые и не ленивые операции, мотивация к их использованию.**  
-    • [Булева алгебра (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Булева_алгебра)  
-    • [Ленивая вычислительная стратегия (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Ленивая_вычислительная_стратегия)  
-    _Основы работы с булевыми значениями и особенности логических операций._
+    [GeeksforGeeks – Short Circuit Evaluation in Java](https://www.geeksforgeeks.org/short-circuit-evaluation-java/)
 
 14. **Специфика хранения и сравнения вещественных чисел.**  
-    • [Числа с плавающей запятой (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Формат_числа_с_плавающей_запятой)  
-    • [IEEE 754 (Wikipedia, русский)](https://ru.wikipedia.org/wiki/IEEE_754)  
-    _Вопросы точности, округления и представления вещественных чисел в памяти._
+    [GeeksforGeeks – Floating Point Precision Problems](https://www.geeksforgeeks.org/floating-point-precision-problems-in-java/)
 
 15. **Арифметические операции. Приоритет операций.**  
-    • [Приоритет операций (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Приоритет_операций)  
-    _Описание порядка выполнения арифметических операций в выражениях._
+    [GeeksforGeeks – Operator Precedence and Associativity in Java](https://www.geeksforgeeks.org/operator-precedence-and-associativity-in-java/)
 
 16. **Преобразование типов – явное и неявное. Типы по умолчанию. Сужение при явном преобразовании типов.**  
-    • [Преобразование типов (Wikipedia, английский/русский)](https://en.wikipedia.org/wiki/Type_conversion)  
-    _Обзор преобразования типов, явных и неявных преобразований, а также нюансов сужения._
+    [GeeksforGeeks – Type Conversion in Java](https://www.geeksforgeeks.org/type-conversion-java/)
 
-17. **Различия между примитивными и ссылочными типами данных в хранении в памяти. Различие в понимании работы оператора присваивания для них. Понятие стека и кучи. Особенности сравнения данных примитивных и ссылочных типов.**  
-    • [Стек (информатика) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Стек_(информатика))  
-    • [Куча (информатика) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Куча_(информатика))  
-    _Как хранятся данные в памяти и чем отличаются примитивные и ссылочные типы._
+17. **Различия между примитивными и ссылочными типами данных в хранении в памяти. Различие в понимании работы оператора присваивания для них. Понятие стека и кучи.**  
+    [GeeksforGeeks – Difference Between Primitive and Non-Primitive Data Types](https://www.geeksforgeeks.org/difference-between-primitive-and-non-primitive-data-types-in-java/)
 
-18. **Условный оператор. Заголовок условного оператора. Понятие предиката. Типовые ошибки синтаксиса условного оператора (лишние ;, недостающие операторные скобки, приклеивающийся else).**  
-    • [Конструкция if-else (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Конструкция_if-else)  
-    _Разбор синтаксиса условных операторов и типичных ошибок при их использовании._
+18. **Условный оператор. Заголовок условного оператора. Понятие предиката. Типовые ошибки синтаксиса условного оператора.**  
+    [TutorialsPoint – Java Decision Making](https://www.tutorialspoint.com/java/java_decision_making.htm)
 
 19. **Тернарный условный оператор – синтаксис, использование, назначение.**  
-    • [Тернарный оператор (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Тернарный_оператор)  
-    _Как работает тернарный оператор и в каких случаях он применяется._
+    [GeeksforGeeks – Ternary Operator in Java](https://www.geeksforgeeks.org/ternary-operator-in-java/)
 
-20. **Условный оператор switch-case. Назначение использования break. Ограничения типа данных для switch.**  
-    • [Конструкция switch (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Конструкция_switch)  
-    _Описание работы оператора switch-case и особенностей его использования._
+20. **Условные операторы switch case. Назначение использования break. Ограничения типа данных для switch.**  
+    [TutorialsPoint – Java Switch Statement](https://www.tutorialspoint.com/java/java_switch_statement.htm)
 
-21. **Циклический оператор while – синтаксис, особенности. Назначение операторов break и continue, мотивация к их использованию в циклах.**  
-    • [Цикл while (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Цикл_while)  
-    _Принципы работы цикла while и применение управляющих операторов._
+21. **Циклический оператор while – синтаксис, особенности. Назначение операторов break и continue.**  
+    [TutorialsPoint – Java While Loop](https://www.tutorialspoint.com/java/java_while_loop.htm)
 
-22. **Циклический оператор do-while – синтаксис, назначение. Конвертация цикла do-while в while.**  
-    • [Цикл do-while (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Цикл_do-while)  
-    _Описание цикла с постусловием и его особенностей._
+22. **Циклический оператор do while – синтаксис, назначение. Конвертация цикла do while в while.**  
+    [TutorialsPoint – Java Do While Loop](https://www.tutorialspoint.com/java/java_do_while_loop.htm)
 
 23. **Циклический оператор for. Заголовок оператора for – особенности. Конвертация цикла while в for и обратно.**  
-    • [Цикл for (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Цикл_for)  
-    _Обзор различных вариантов использования цикла for._
+    [TutorialsPoint – Java For Loop](https://www.tutorialspoint.com/java/java_for_loop.htm)
 
-24. **Оператор for для реализации прохода по набору данных (for-each).**  
-    • [Цикл for (расширенный, foreach) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Цикл_for)  
-    _Как осуществляется итерация по коллекциям и массивам с помощью for-each._
+24. **Оператор for для реализации прохода по набору данных (for each).**  
+    [GeeksforGeeks – For-Each Loop in Java](https://www.geeksforgeeks.org/for-each-loop-in-java/)
 
 25. **Область видимости (scope) переменной в телах условий и циклов.**  
-    • [Область видимости (переменные) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Область_видимости)  
-    _Принципы видимости переменных в различных блоках кода._
+    [GeeksforGeeks – Variable Scope in Java](https://www.geeksforgeeks.org/variable-scope-in-java/)
 
 26. **Организация циклов с помощью меток и безусловных переходов.**  
-    • [Оператор goto (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Оператор_goto)  
-    _Описание использования меток и безусловных переходов (goto) в программировании._
+    [GeeksforGeeks – Labels in Java](https://www.geeksforgeeks.org/labels-in-java/)
 
-27. **Теорема Бёма–Якопини (формулировка и значение).**  
-    • [Böhm–Jacopini theorem (Wikipedia, на английском)](https://en.wikipedia.org/wiki/Böhm%E2%80%93Jacopini_theorem)  
-    _Ключевая теорема, обосновывающая возможность структурирования алгоритмов без оператора goto._
+27. **Теорема Бёма-Якопини (формулировка и значение).**  
+    [NYU – Böhm-Jacopini Theorem (PDF)](http://www.cs.nyu.edu/courses/fall05/V22.0103-001/lectures/bjtheorem.pdf)
 
 28. **Понятие консоли. Особенности вывода данных в консоль с помощью print.**  
-    • [Консоль (компьютерные науки) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Консоль_(компьютерные_науки))  
-    _Описание терминала/консоли и методов вывода информации._
+    [TutorialsPoint – Java Console I/O](https://www.tutorialspoint.com/java/java_console_io.htm)
 
 29. **Особенности ввода данных с консоли с помощью Scanner.**  
-    • [Класс Scanner (Java API)](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)  
-    _Официальная документация по классу Scanner для ввода данных в Java._
+    [TutorialsPoint – Java User Input](https://www.tutorialspoint.com/java/java_user_input.htm)
 
 30. **Особенности ввода данных с консоли с помощью args.**  
-    • [Аргументы командной строки (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Аргументы_командной_строки)  
-    _Как передаются аргументы в программу через командную строку._
+    [GeeksforGeeks – Command Line Arguments in Java](https://www.geeksforgeeks.org/command-line-arguments-in-java/)
 
 31. **Понятие эффективного алгоритма и меры его эффективности.**  
-    • [Анализ алгоритмов (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Анализ_алгоритмов)  
-    _Критерии оценки эффективности алгоритмов и понятие ресурсоёмкости._
+    [GeeksforGeeks – Asymptotic Analysis (Part 1)](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)
 
-32. **Понятие вычислительной сложности. Сложность по времени и памяти.**  
-    • [Временная сложность (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Временная_сложность)  
-    • [Пространственная сложность (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Пространственная_сложность)  
-    _Показатели оценки алгоритмов по используемым ресурсам._
+32. **Вычислительная сложность: сложность по времени и памяти.**  
+    [GeeksforGeeks – Asymptotic Analysis (Part 2)](https://www.geeksforgeeks.org/analysis-of-algorithms-set-2-asymptotic-analysis/)
 
 33. **Оценка эффективности алгоритма через асимптотику. Определение O-большого и операции с ним.**  
-    • [O-большое (Wikipedia, русский)](https://ru.wikipedia.org/wiki/O-большое)  
-    _Как описывается асимптотическая сложность алгоритмов._
+    [GeeksforGeeks – Asymptotic Analysis (Part 1)](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)
 
 34. **Приемы оценки сложности алгоритмов. Виды сложности. Примеры алгоритмов с заданной сложностью.**  
-    • [Анализ алгоритмов (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Анализ_алгоритмов)  
-    _Практические примеры расчёта сложности различных алгоритмов._
+    [TutorialsPoint – Algorithm Analysis](https://www.tutorialspoint.com/data_structures_algorithms/algorithm_analysis.htm)
 
 35. **Типовые ошибки оценки сложности.**  
-    • [Анализ алгоритмов (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Анализ_алгоритмов)  
-    _Обзор распространённых заблуждений при оценке алгоритмической сложности._
+    [GeeksforGeeks – Common Mistakes in Algorithm Analysis](https://www.geeksforgeeks.org/common-mistakes-in-algorithm-analysis/)
 
 36. **Типовые ошибки проектирования алгоритмов с неоптимальной сложностью.**  
-    • [Оптимизация алгоритмов (поиск информации)](https://ru.wikipedia.org/wiki/Анализ_алгоритмов)  
-    _Примеры ошибок в проектировании алгоритмов и пути их оптимизации._
+    [TutorialsPoint – Algorithm Design](https://www.tutorialspoint.com/algorithm_design/index.htm)
 
 37. **Суть проблемы P и NP.**  
-    • [P против NP (Wikipedia, русский)](https://ru.wikipedia.org/wiki/P_против_NP)  
-    _Обзор одной из важнейших нерешённых проблем теории вычислений._
+    [GeeksforGeeks – P vs NP Problem](https://www.geeksforgeeks.org/p-vs-np-problem/)
 
 38. **Связь сложности вычислений с безопасностью шифрованных данных (на примере паролей).**  
-    • [Криптография (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Криптография)  
-    • [Хеш-функция (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Хеш-функция)  
-    _Как вычислительная сложность влияет на стойкость шифрования и защиту паролей._
+    [TutorialsPoint – Cryptography Security](https://www.tutorialspoint.com/cryptography/cryptography_security.htm)
 
-39. **Понятие массива. Одномерные массивы: объявление ссылки и выделение памяти. Обращение к элементу массива.**  
-    • [Массив (структура данных) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Массив)  
-    _Основы работы с массивами в программировании._
+39. **Понятие массива. Одномерные массивы: объявление, выделение памяти, обращение к элементу массива.**  
+    [TutorialsPoint – Java Arrays](https://www.tutorialspoint.com/java/java_arrays.htm)
 
 40. **Устройство прямой адресации и её связь с эффективностью массива. Почему массив называют структурой с быстрым доступом.**  
-    • [Массив (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Массив)  
-    _Объяснение принципа прямой адресации и быстродействия массивов._
+    [GeeksforGeeks – Array Data Structure](https://www.geeksforgeeks.org/array-data-structure/)
 
-41. **Проход по всем элементам массива. Цикл for-each.**  
-    • [Цикл for (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Цикл_for)  
-    _Примеры итераций по массиву, включая конструкцию for-each._
+41. **Проход по всем элементам массива. Цикл for each.**  
+    [GeeksforGeeks – For-Each Loop in Java](https://www.geeksforgeeks.org/for-each-loop-in-java/)
 
-42. **Многомерные массивы – объявление, принцип организации, способ пройти по всем элементам. Ступенчатые массивы.**  
-    • [Многомерный массив (поиск в сети)](https://ru.wikipedia.org/wiki/Массив)  
-    _Изучите разделы о многомерных и ступенчатых массивах в статье про массивы._
+42. **Многомерные массивы – объявление, принцип организации, способы прохода, ступенчатые массивы.**  
+    [TutorialsPoint – Java Multidimensional Arrays](https://www.tutorialspoint.com/java/java_multidimensional_arrays.htm)
 
 43. **Разделение размера массива на CAPACITY и size – мотивация.**  
-    • [Динамический массив (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Динамический_массив)  
-    _Пояснение, почему внутреннее хранилище может иметь больший размер, чем количество элементов._
+    [Baeldung – ArrayList Internals](https://www.baeldung.com/java-arraylist-size-capacity)
 
 44. **Сложность операций с данными для одномерных массивов.**  
-    • [Анализ алгоритмов (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Анализ_алгоритмов)  
-    _Обзор временных затрат на операции доступа и модификации в массивах._
+    [TutorialsPoint – Array Data Structure](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)
 
 45. **Линейный и бинарный поиски в массиве.**  
-    • [Линейный поиск (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Линейный_поиск)  
-    • [Бинарный поиск (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Бинарный_поиск)  
-    _Сравнение алгоритмов поиска с примерами и оценкой сложности._
+    [GeeksforGeeks – Binary Search](https://www.geeksforgeeks.org/binary-search/)
 
 46. **Особенности программирования задач, содержащих кванторы.**  
-    • [Квантор (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Квантор)  
-    _Обзор применения логических кванторов в математике и программировании._
+    [Studytonight – Quantifiers (Discrete Mathematics)](https://www.studytonight.com/discrete-mathematics/quantifiers)
 
-47. **Организация приближенных вычислений в программировании – связь с понятием предела последовательности.**  
-    • [Предел (математика) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Предел)  
-    _Как приближённые вычисления связаны с математическим пределом._
+47. **Организация приближённых вычислений в программировании – связь с понятием предела последовательности.**  
+    [Studytonight – Numerical Methods](https://www.studytonight.com/numerical-methods)
 
-48. **Символ, номер символа. ASCII. Способ узнать номер.**  
-    • [ASCII (Wikipedia, русский)](https://ru.wikipedia.org/wiki/ASCII)  
-    _Описание таблицы ASCII и способов определения числового кода символа._
+48. **Символ, номер символа. ASCII. Способы определения номера символа.**  
+    [GeeksforGeeks – ASCII Character Codes](https://www.geeksforgeeks.org/ascii-character-codes/)
 
-49. **Что такое кодировка? Чем различаются кодировки. Примеры кодировок. Причины проблем с кодировками. Unicode.**  
-    • [Кодировка (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Кодировка)  
-    • [Unicode (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Unicode)  
-    _Обзор различных систем кодирования символов и типичных проблем при работе с ними._
+49. **Что такое кодировка? Чем различаются кодировки. Примеры кодировок. Проблемы с кодировками. Unicode.**  
+    [TutorialsPoint – Character Encoding](https://www.tutorialspoint.com/character-encoding/index.htm)
 
-50. **Объявление и использование символьного типа. Символ как числовой тип – какие возможности это дает.**  
-    • [Тип char (поиск в сети)](https://ru.wikipedia.org/wiki/Тип_данных)  
-    _Изучите, как символы представлены в памяти и как они могут использоваться как числа._
+50. **Объявление и использование символьного типа. Символ как числовой тип – возможности.**  
+    [TutorialsPoint – Java Basic Data Types (char)](https://www.tutorialspoint.com/java/java_basic_datatypes.htm)
 
 51. **Что такое Escape Characters, какие символы к ним относятся?**  
-    • [Escape-последовательность (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Escape-последовательность)  
-    _Описание специальных последовательностей для представления невидимых символов._
+    [GeeksforGeeks – Escape Sequences in Java](https://www.geeksforgeeks.org/escape-sequences-in-java/)
 
-52. **Набор символов. Класс String. Объявление, использование (ввод-вывод, конкатенация, доступ к элементу). Что такое «неизменяемость строки».**  
-    • [Строка (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Строка_(программирование))  
-    _Обзор особенностей работы со строками в различных языках программирования._
+52. **Набор символов. Класс String: объявление, использование, ввод-вывод, конкатенация, доступ к элементу. Неизменяемость строки.**  
+    [GeeksforGeeks – Strings in Java](https://www.geeksforgeeks.org/string-in-java/)
 
 53. **Особенности хранения и создания строковых констант в памяти.**  
-    • [Интернирование строк (поиск в сети)](https://ru.wikipedia.org/wiki/Интернирование)  
-    _Как устроено хранение строк и оптимизация использования памяти для строковых констант._
+    [Baeldung – Java String Pool](https://www.baeldung.com/java-string-pool)
 
-54. **Файлы. Текстовые и бинарные файлы. Почему не все файлы текстовые. Чтение данных из текстового файла.**  
-    • [Файл (компьютерные науки) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Файл_(компьютерные_науки))  
-    _Различия между текстовыми и бинарными файлами, а также основы работы с ними._
+54. **Файлы. Текстовые и бинарные файлы. Причины, почему не все файлы текстовые. Чтение данных из текстового файла.**  
+    [TutorialsPoint – Java File I/O](https://www.tutorialspoint.com/java/java_files_io.htm)
 
 55. **Определение формального языка. Примеры формальных языков. Понятие распознавания языка.**  
-    • [Формальный язык (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Формальный_язык)  
-    _Введение в теорию формальных языков и их применение в информатике._
+    [GeeksforGeeks – Formal Languages](https://www.geeksforgeeks.org/formal-languages/)
 
 56. **Понятие грамматики языка. Примеры грамматик. Вывод слова в грамматике. Принадлежность слова языку через грамматику.**  
-    • [Формальная грамматика (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Формальная_грамматика)  
-    _Как задаются грамматики и производится вывод слов в формальных языках._
+    [TutorialsPoint – Compiler Design: Grammars](https://www.tutorialspoint.com/compiler_design/compiler_design_grammars.htm)
 
 57. **Иерархия Хомского. Контекстно-зависимые и контекстно-свободные языки. Примеры. Регулярные языки. Примеры.**  
-    • [Иерархия Хомского (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Иерархия_Хомского)  
-    _Классификация языков по типу грамматик и примеры каждого класса._
+    [GeeksforGeeks – Chomsky Hierarchy](https://www.geeksforgeeks.org/chomsky-hierarchy/)
 
 58. **Принцип работы и синтаксис регулярных выражений. Примеры регулярных выражений.**  
-    • [Регулярное выражение (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Регулярное_выражение)  
-    _Основы синтаксиса регулярных выражений и примеры их применения._
+    [TutorialsPoint – Java Regular Expressions](https://www.tutorialspoint.com/java/java_regular_expressions.htm)
 
-59. **Понятие конечного детерминированного автомата. Подход к распознаванию языка с помощью конечного автомата. Построение автомата, распознающего язык.**  
-    • [Конечный автомат (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Конечный_автомат)  
-    _Основы теории автоматов и их применение для распознавания языков._
+59. **Понятие конечного детерминированного автомата. Распознавание языка с помощью конечного автомата.**  
+    [GeeksforGeeks – Introduction to Automata Theory](https://www.geeksforgeeks.org/introduction-of-automata-theory/)
 
 60. **Виды анализа программного кода при компиляции программ.**  
-    • [Компиляция (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Компиляция)  
-    _Этапы компиляции, включая лексический, синтаксический и семантический анализ._
+    [TutorialsPoint – Compiler Design Overview](https://www.tutorialspoint.com/compiler_design/index.htm)
 
 61. **Функции. Мотивация к использованию. Объявление и вызов.**  
-    • [Функция (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Функция_(программирование))  
-    _Основы создания и использования функций в программировании._
+    [GeeksforGeeks – Methods in Java](https://www.geeksforgeeks.org/methods-in-java/)
 
 62. **Локальные переменные. Стек вызовов. Возвращаемые значения, правила работы и смысл return.**  
-    • [Стек (информатика) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Стек_(информатика))  
-    _Как организована память при вызове функций и обработке возвращаемых значений._
+    [GeeksforGeeks – Methods in Java](https://www.geeksforgeeks.org/methods-in-java/)
 
-63. **Параметры, передача по ссылке, по значению. Правила изменения в методе значений ссылочных и примитивных типов.**  
-    • [Передача параметров (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Передача_параметров)  
-    _Различия между передачей по значению и по ссылке в различных языках программирования._
+63. **Параметры, передача по ссылке и по значению. Правила изменения значений ссылочных и примитивных типов.**  
+    [GeeksforGeeks – Call by Value vs Call by Reference in Java](https://www.geeksforgeeks.org/difference-between-call-by-value-and-call-by-reference-in-java/)
 
 64. **Сигнатура метода. Перегрузка метода.**  
-    • [Перегрузка методов (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Перегрузка_методов)  
-    _Что такое сигнатура метода и как реализуется перегрузка в ООП._
+    [TutorialsPoint – Java Method Overloading](https://www.tutorialspoint.com/java/java_method_overloading.htm)
 
-65. **Рекурсия. Принцип организации. Примеры рекурсивных алгоритмов. Ошибки работы с рекурсией.**  
-    • [Рекурсия (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Рекурсия)  
-    _Описание рекурсивного подхода, примеры алгоритмов и типичные ошибки._
+65. **Рекурсия. Принцип организации. Примеры рекурсивных алгоритмов. Ошибки при использовании рекурсии.**  
+    [GeeksforGeeks – Recursion](https://www.geeksforgeeks.org/recursion/)
 
 66. **Преобразование рекурсии в цикл и цикла в рекурсию. Хвостовая рекурсия.**  
-    • [Хвостовая рекурсия (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Хвостовая_рекурсия)  
-    _Методы оптимизации рекурсивных вызовов и их преобразование в итерации._
+    [GeeksforGeeks – Tail Recursion](https://www.geeksforgeeks.org/tail-recursion/)
 
 67. **Цель использования объектно-ориентированной парадигмы программирования. Сущности, атрибуты и поведение.**  
-    • [Объектно-ориентированное программирование (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование)  
-    _Основные принципы ООП, включая инкапсуляцию, наследование и полиморфизм._
+    [TutorialsPoint – Object Oriented Concepts](https://www.tutorialspoint.com/object_oriented_analysis_design/ooad_object_oriented_concepts.htm)
 
-68. **Классы. Структура класса, члены класса. Объявление экземпляра класса. Объявление ссылки и выделение памяти. Конструктор класса. Методы и атрибуты класса. Примеры. Конструкция this и её использование. Принцип «Абстракция».**  
-    • [Класс (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Класс_(программирование))  
-    • [Абстракция (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Абстракция_(программирование))  
-    _Детальное описание построения и использования классов в ООП._
+68. **Классы. Структура класса, члены класса, объявление экземпляра, конструктор, методы, атрибуты, использование this, принцип абстракции.**  
+    [TutorialsPoint – Java Classes and Objects](https://www.tutorialspoint.com/java/java_object_classes.htm)
 
-69. **Инкапсуляция. Корректные примеры инкапсуляции. Модификаторы доступа – private, public. Методы set-get. Модификатор static. Объяснение модификаторов main.**  
-    • [Инкапсуляция (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Инкапсуляция)  
-    • [Модификаторы доступа (поиск в сети)](https://ru.wikipedia.org/wiki/Модификатор_(программирование))  
-    _Принципы защиты данных и организация доступа в классах._
+69. **Инкапсуляция. Модификаторы доступа (private, public), методы set-get, модификатор static.**  
+    [GeeksforGeeks – Encapsulation in Java](https://www.geeksforgeeks.org/encapsulation-in-java/)
 
 70. **Наследование и полиморфизм. Мотивация наследования. Правила наследования методов и атрибутов.**  
-    • [Наследование (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Наследование_(программирование))  
-    • [Полиморфизм (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Полиморфизм)  
-    _Как реализуется повторное использование кода и динамическое поведение объектов._
+    [TutorialsPoint – Java Inheritance](https://www.tutorialspoint.com/java/java_inheritance.htm)
 
 71. **Переопределение методов. Класс Object. Модификатор final.**  
-    • [Переопределение методов (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Переопределение_методов)  
-    • [Класс Object (Java) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Object_(Java))  
-    • [Final (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Final_(программирование))  
-    _Особенности переопределения и ограничения на изменение методов и классов._
+    [GeeksforGeeks – Method Overriding in Java](https://www.geeksforgeeks.org/method-overriding-in-java/)
 
-72. **Как наследование устроено с точки зрения памяти. Оператор super и его использование. Как наследование работает с модификаторами доступа. Модификатор protected.**  
-    • [Оператор super (поиск в сети)](https://ru.wikipedia.org/wiki/Super_(программирование))  
-    • [Protected (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Protected_(программирование))  
-    _Рассмотрение наследования, доступа и использования ключевого слова super._
+72. **Как наследование устроено с точки зрения памяти. Оператор super, модификатор protected.**  
+    [Baeldung – Java Inheritance](https://www.baeldung.com/java-inheritance)
 
-73. **Восходящее преобразование. Связывание. Раннее и позднее связывание.**  
-    • [Статическое и динамическое связывание (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Динамическое_и_статическое_связывание)  
-    _Различия между ранним (статическим) и поздним (динамическим) связыванием в ООП._
+73. **Восходящее преобразование, связывание. Раннее и позднее связывание.**  
+    [GeeksforGeeks – Upcasting and Downcasting in Java](https://www.geeksforgeeks.org/upcasting-and-downcasting-in-java/)
 
 74. **Абстрактные классы и методы. Проблемы множественного наследования (проблема ромба).**  
-    • [Абстрактный класс (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Абстрактный_класс)  
-    • [Ромбовидное наследование (поиск в сети)](https://ru.wikipedia.org/wiki/Проблема_ромба)  
-    _Понятие абстракции и проблемы, возникающие при множественном наследовании._
+    [TutorialsPoint – Java Abstraction](https://www.tutorialspoint.com/java/java_abstraction.htm)
 
-75. **Интерфейсы. Объявление, структура. Что могут содержать интерфейсы? Наследование интерфейсов. Правила реализации интерфейса классом.**  
-    • [Интерфейс (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Интерфейс_(программирование))  
-    _Как задаются контракты для классов и реализуются интерфейсы._
+75. **Интерфейсы. Объявление, структура, возможности, наследование, правила реализации.**  
+    [TutorialsPoint – Java Interfaces](https://www.tutorialspoint.com/java/java_interfaces.htm)
 
-76. **Восходящее преобразование в случае интерфейса. Как интерфейсы содействуют решению проблемы множественного наследования.**  
-    • [Интерфейс (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Интерфейс_(программирование))  
-    _Объяснение, как интерфейсы позволяют имитировать множественное наследование без конфликтов._
+76. **Восходящее преобразование в случае интерфейса. Интерфейсы и решение проблемы множественного наследования.**  
+    [GeeksforGeeks – Interfaces in Java](https://www.geeksforgeeks.org/interfaces-in-java/)
 
-77. **Подход к решению множественного наследования в языке Python. MRO.**  
-    • [Method resolution order (MRO) (Wikipedia, английский)](https://en.wikipedia.org/wiki/Method_resolution_order)  
-    _Как в Python определяется порядок поиска методов при наследовании._
+77. **Решение проблемы множественного наследования в Python. MRO.**  
+    [Real Python – Understanding Python’s MRO](https://realpython.com/python-mro/)
 
-78. **Анонимный класс. Мотивация к использованию. Объявление.**  
-    • [Анонимный класс (Java) (Oracle Tutorial)](https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html)  
-    _Примеры создания анонимных классов и случаи их применения._
+78. **Анонимный класс. Мотивация, объявление.**  
+    [GeeksforGeeks – Anonymous Inner Class in Java](https://www.geeksforgeeks.org/anonymous-inner-class-in-java/)
 
-79. **Перечисления. Мотивация к использованию. Объявление перечисления. Возможности перечисления. Чем являются экземпляры перечисления.**  
-    • [Перечисления (enum) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Перечисление_(программирование))  
-    _Как используются enum-константы и их преимущества._
+79. **Перечисления. Мотивация, объявление, возможности, природа экземпляров.**  
+    [TutorialsPoint – Java Enums](https://www.tutorialspoint.com/java/java_enums.htm)
 
 80. **SOLID-принципы проектирования – мотивация, объяснение, примеры.**  
-    • [SOLID (Wikipedia, английский)](https://en.wikipedia.org/wiki/SOLID)  
-    _Краткий обзор принципов SOLID для написания качественного объектно-ориентированного кода._
+    [GeeksforGeeks – SOLID Principles in Java](https://www.geeksforgeeks.org/solid-principles-in-java/)
 
 81. **Нисходящее преобразование. Мотивация. Оператор instanceof.**  
-    • [Оператор instanceof (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Instanceof)  
-    _Как определяется принадлежность объекта к тому или иному типу во время выполнения._
+    [GeeksforGeeks – instanceof Operator in Java](https://www.geeksforgeeks.org/instanceof-operator-in-java/)
 
 82. **Исключения. Цель. Примеры известных исключений.**  
-    • [Исключение (программирование) (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Исключение_(программирование))  
-    _Обзор системы обработки ошибок и типов исключений._
+    [TutorialsPoint – Java Exceptions](https://www.tutorialspoint.com/java/java_exceptions.htm)
 
 83. **Оператор throw. Мотивация к использованию throws.**  
-    • [Обработка исключений (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Обработка_исключений)  
-    _Как инициировать и передавать исключения в программах на Java и не только._
+    [GeeksforGeeks – Throw and Throws in Java](https://www.geeksforgeeks.org/throw-throws-keyword-java/)
 
-84. **Блок try-catch, правила работы. Использование и смысл finally. Корректная последовательность обработки исключений.**  
-    • [Обработка исключений (Wikipedia, русский)](https://ru.wikipedia.org/wiki/Обработка_исключений)  
-    _Принципы построения блоков try-catch-finally для безопасного выполнения кода._
+84. **Блок try-catch, правила работы, использование finally, последовательность обработки исключений.**  
+    [TutorialsPoint – Java Exceptions](https://www.tutorialspoint.com/java/java_exceptions.htm)
 
-85. **Что такое «проверяемые» и «непроверяемые» исключения (checked/unchecked), как они связаны с иерархией исключений.**  
-    • [Иерархия исключений в Java (поиск/Java Tutorial)](https://docs.oracle.com/javase/tutorial/essential/exceptions/)  
-    _Различия между проверяемыми и непроверяемыми исключениями и их применение._
+85. **Проверяемые и непроверяемые исключения (checked/unchecked) и их связь с иерархией исключений.**  
+    [GeeksforGeeks – Checked vs Unchecked Exceptions in Java](https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/)
 
-86. **Пакеты. Принципы работы. Синтаксис. Операторы import и import static. Принцип названия пакета. Модификатор доступа по умолчанию.**  
-    • [Пакеты в Java (Oracle Tutorial)](https://docs.oracle.com/javase/tutorial/java/package/index.html)  
-    _Описание организации кода в пакетах, правила именования и использования импорта._
+86. **Пакеты. Принципы работы, синтаксис, операторы import/import static, правила именования, модификатор доступа по умолчанию.**  
+    [TutorialsPoint – Java Packages](https://www.tutorialspoint.com/java/java_packages.htm)
